@@ -6,10 +6,6 @@
 <img align="center" height="48" width="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v2.png" alt="java-coffee-cup-logo--v2" />
 </div>
 
-## :white_check_mark: Tecnologías
-- Java 17
-- Java Swing
-- IDE Apache Netbeans
 
 ## Screenshot
 | JpanelRound  |   
